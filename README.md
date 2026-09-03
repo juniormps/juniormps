@@ -132,10 +132,9 @@ Entre os principais temas estudados estão:
 - Node.js e Express
 - APIs REST
 - SQL e bancos de dados relacionais
-- MongoDB
+- HTML e CSS
 - Git e GitHub
 - Arquitetura e organização de aplicações
-- Testes automatizados
 - Integração e deploy de aplicações
 
 ---
