@@ -1,4 +1,3 @@
-```markdown
 # Olá! Eu sou o Márcio 👋
 
 ## 👨‍💻 Sobre mim
