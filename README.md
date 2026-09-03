@@ -138,20 +138,6 @@ Entre os principais temas estudados estão:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juniormps&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniormps&layout=compact&hide_border=true)
-
-</div>
-
-> Os indicadores acima representam apenas os repositórios públicos disponíveis no GitHub e não refletem isoladamente meu nível de conhecimento em cada tecnologia.
-
----
-
 ## 🔗 Vamos nos conectar?
 
 Conheça um pouco mais sobre minha trajetória profissional no LinkedIn:
