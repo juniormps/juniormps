@@ -117,6 +117,8 @@ Aplicação web desenvolvida em **React**, voltada para publicação e gerenciam
 
 🔗 **Aplicação:** [blog-carros-e-vc.vercel.app](https://blog-carros-e-vc.vercel.app/)
 
+📂 **Repositório:** [GitHub](https://github.com/juniormps/projeto-blog-carros-e-vc)
+
 ---
 
 ## 📚 Outros estudos e projetos
