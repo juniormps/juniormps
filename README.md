@@ -121,6 +121,34 @@ Aplicação web desenvolvida em **React**, voltada para publicação e gerenciam
 
 ---
 
+---
+
+### 🤖 OpenCode Professional Git Agent
+
+Agente de **Inteligência Artificial voltado à automação assistida de fluxos Git**, desenvolvido para analisar alterações em repositórios, identificar seus objetivos e organizá-las em commits logicamente separados, mantendo o desenvolvedor no controle das operações.
+
+**Principais tecnologias e conceitos:**
+
+`OpenCode` • `Git` • `Conventional Commits` • `Inteligência Artificial`
+
+**Principais recursos:**
+
+- Análise das alterações realizadas no repositório
+- Organização das mudanças em commits logicamente separados
+- Geração de mensagens seguindo a especificação Conventional Commits
+- Identificação e tratamento de arquivos potencialmente sensíveis
+- Aprovação humana obrigatória antes da criação de commits e pushes
+- Proteção contra operações destrutivas e force push
+- Verificações antes do envio das alterações ao repositório remoto
+- Configuração reutilizável em diferentes projetos Git
+- Documentação de instalação, configuração, personalização e segurança
+
+📂 **Repositório:** [GitHub](https://github.com/juniormps/opencode-git-agent)
+
+🔗 **Demonstração:** [LinkedIn](https://lnkd.in/p/dpTGd4wQ)
+
+---
+
 ## 📚 Outros estudos e projetos
 
 Além dos projetos em destaque, mantenho repositórios destinados a exercícios, estudos e aplicações desenvolvidas durante minha formação.
