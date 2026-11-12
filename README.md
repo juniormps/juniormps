@@ -70,8 +70,12 @@ Acredito que essas habilidades são fundamentais para alcançar bons resultados 
 
 ### Inteligência Artificial e agentes
 
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
+
 
 ---
 
