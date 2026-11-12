@@ -68,6 +68,11 @@ Acredito que essas habilidades são fundamentais para alcançar bons resultados 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+### Inteligência Artificial e agentes
+
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+
 ---
 
 ## 🚀 Projetos em destaque
@@ -118,8 +123,6 @@ Aplicação web desenvolvida em **React**, voltada para publicação e gerenciam
 🔗 **Aplicação:** [blog-carros-e-vc.vercel.app](https://blog-carros-e-vc.vercel.app/)
 
 📂 **Repositório:** [GitHub](https://github.com/juniormps/projeto-blog-carros-e-vc)
-
----
 
 ---
 
