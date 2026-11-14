@@ -20,6 +20,45 @@ Ao longo da minha formação, venho construindo experiência prática com projet
 
 ## 🚀 Projetos em destaque
 
+### 🎶 Sobe o Som — 🚧 Em desenvolvimento 🚧
+
+E-commerce demonstrativo de **discos de vinil**, desenvolvido como projeto **Full Stack com Next.js**, com foco em arquitetura, modelagem de dados, autenticação, controle de estoque e simulação de um fluxo de compras. A interface está sendo planejada com abordagem **Mobile First**, responsividade e acessibilidade.
+
+**Principais tecnologias:**
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-7C3AED?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+
+**Principais recursos:**
+
+- Base Full Stack com Next.js, App Router e TypeScript em modo estrito
+- Modelagem relacional com Prisma, PostgreSQL, migrações e catálogo inicial de produtos
+- Autenticação com Google via NextAuth, sessão JWT e cookies HttpOnly
+- Estoque persistido com restrição de saldo não negativo e seed que preserva os saldos existentes
+- Catálogo com busca, filtros por gênero e promoções, paginação e detalhes dos discos
+- Interface Mobile First, responsiva e acessível
+- Carrinho persistente, múltiplos endereços, consulta por CEP e checkout simulado
+- Cadastro por e-mail e senha, histórico de pedidos por usuário e baixa transacional de estoque
+- Testes automatizados com Vitest, React Testing Library e Playwright, CI com GitHub Actions e publicação da aplicação
+
+📂 **Repositório:** [GitHub](https://github.com/juniormps/sobe-o-som)
+
+---
+
 ### ✅ Clarity
 
 Aplicação **Full Stack de gerenciamento de tarefas**, desenvolvida com foco não apenas na implementação de funcionalidades, mas também em arquitetura, autenticação, testes, segurança, integração entre front-end e back-end, banco de dados e deploy em produção.
@@ -42,9 +81,6 @@ Aplicação **Full Stack de gerenciamento de tarefas**, desenvolvida com foco n�
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
 
 
 **Principais recursos:**
@@ -79,7 +115,6 @@ Aplicação web desenvolvida em **React**, voltada para publicação e gerenciam
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
 **Principais recursos:**
