@@ -1,8 +1,8 @@
-# Olá! Eu sou o Márcio 👋
+# Olá, Mundo! Eu sou o Márcio 👋
 
 ## 👨‍💻 Sobre mim
 
-Sou um **desenvolvedor de software em formação**, em busca de oportunidades para atuar como **Desenvolvedor ou Engenheiro de Software Júnior**, com foco em desenvolvimento **Full Stack, Front-end ou Back-end**, ou como **estagiário na área**.
+Sou um **desenvolvedor de software em formação**, cursando o último período de Análise e Desenvolvimento de Sistema, em busca da minha primeira oportunidade para atuar como **Desenvolvedor ou Engenheiro de Software Júnior**, com foco em desenvolvimento **Full Stack, Front-end ou Back-end**, ou como **estagiário na área**.
 
 ---
 
@@ -10,72 +10,11 @@ Após anos atuando nas áreas **comercial e administrativa**, decidi dar um impo
 
 Sendo autodidata por natureza, iniciei essa jornada de forma autônoma, utilizando plataformas de ensino online e aprendendo tecnologias voltadas ao desenvolvimento web, como **HTML, CSS e JavaScript**.
 
-Em **2024**, dei mais um passo significativo nessa jornada ao iniciar a graduação em **Análise e Desenvolvimento de Sistemas na UniCarioca**, com conclusão prevista para o final de **2026**.
+Em **2024**, dei mais um passo significativo nessa caminhada ao iniciar a graduação em **Análise e Desenvolvimento de Sistemas na UniCarioca**, com conclusão prevista para o final de **2026**.
 
-Ao longo da minha formação, adquiri não apenas conhecimento sobre tecnologias utilizadas no desenvolvimento de aplicações modernas, mas, principalmente, uma forma de pensar voltada para a **resolução de problemas**.
-
-Busco compreender não somente **como utilizar uma tecnologia**, mas também os **conceitos, fundamentos e decisões** que sustentam sua aplicação, assim como seus benefícios, limitações e impactos na **arquitetura e manutenção do software**.
-
-Atualmente, tenho incorporado também **ferramentas de Inteligência Artificial** ao meu fluxo de desenvolvimento, com o objetivo de aumentar a produtividade e acelerar o aprendizado, sempre utilizando essas ferramentas de forma **crítica e consciente**.
-
-Além dos conhecimentos técnicos, busco constantemente aprimorar minhas **soft skills**, como:
-
-- 🧠 Inteligência emocional
-- 💬 Comunicação assertiva
-- 🔎 Pensamento analítico
-- 🤝 Colaboração
-- ⏱️ Gestão do tempo
-
-Acredito que essas habilidades são fundamentais para alcançar bons resultados em **equipes colaborativas**.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-
-### Bancos de dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Testes e qualidade
-
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-
-### Versionamento, CI/CD e ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### Inteligência Artificial e agentes
-
-![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=flat-square&logo=deepseek&logoColor=white)
-
+Ao longo da minha formação, venho construindo experiência prática com projetos independentes e acadêmicos, desenvolvendo aplicações web e APIs e atuando em várias etapas do desenvolvimento: da interface e das regras de negócio à integração com bancos de dados, autenticação, testes automatizados, CI/CD e deploy.
+ 
+**Conheça abaixo, os meus principais projetos.**
 
 ---
 
@@ -87,7 +26,26 @@ Aplicação **Full Stack de gerenciamento de tarefas**, desenvolvida com foco n�
 
 **Principais tecnologias:**
 
-`React` • `TypeScript` • `Redux Toolkit` • `React Router` • `Node.js` • `Express` • `MySQL` • `Vitest` • `React Testing Library` • `Playwright`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=flat-square&logo=CSS-Modules&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
+
 
 **Principais recursos:**
 
@@ -113,7 +71,16 @@ Aplicação web desenvolvida em **React**, voltada para publicação e gerenciam
 
 **Principais tecnologias:**
 
-`React` • `JavaScript` • `React Router` • `Firebase` • `Firestore` • `CSS Modules`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000.svg?style=flat-square&logo=CSS-Modules&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00.svg?style=flat-square&logo=Firebase&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 
 **Principais recursos:**
 
@@ -136,7 +103,12 @@ Agente de **Inteligência Artificial voltado à automação assistida de fluxos 
 
 **Principais tecnologias e conceitos:**
 
-`OpenCode` • `Git` • `Conventional Commits` • `Inteligência Artificial`
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Convencional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196.svg?style=flat-square&logo=Conventional-Commits&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE.svg?style=flat-square&logo=DeepSeek&logoColor=white)
 
 **Principais recursos:**
 
@@ -153,24 +125,6 @@ Agente de **Inteligência Artificial voltado à automação assistida de fluxos 
 📂 **Repositório:** [GitHub](https://github.com/juniormps/opencode-git-agent)
 
 🔗 **Demonstração:** [LinkedIn](https://lnkd.in/p/dpTGd4wQ)
-
----
-
-## 📚 Outros estudos e projetos
-
-Além dos projetos em destaque, mantenho repositórios destinados a exercícios, estudos e aplicações desenvolvidas durante minha formação.
-
-Entre os principais temas estudados estão:
-
-- JavaScript e TypeScript
-- React
-- Node.js e Express
-- APIs REST
-- SQL e bancos de dados relacionais
-- HTML e CSS
-- Git e GitHub
-- Arquitetura e organização de aplicações
-- Integração e deploy de aplicações
 
 ---
 
